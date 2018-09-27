@@ -3,7 +3,8 @@
 Launches the control script and override node for the Devastator robot. 
 
 ## Installation
-1. Clone into your catkin_workspace.
+Clone into your catkin_workspace.
 
 ### Notes!
-Launch this first before launching teleoperation.
+1. Launch this first before launching teleoperation.
+2. This package is in tandem with the devastator_control package. It will not work individually.
